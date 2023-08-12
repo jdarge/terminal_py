@@ -1,3 +1,9 @@
+# TODO :    whenever i scrool up it scrolls all the way down again
+# TODO :    whenever i select text it removes what was printed and replaces with the prompt
+#               additionally, the new prompt that appears works as... the new prompt
+# TODO :    blinker _ acts as text, such that when pressing enter it stays on old prompt text
+# TODO : allow for basic coloring
+
 import os
 import subprocess
 import sys
